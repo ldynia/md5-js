@@ -1,0 +1,11 @@
+{
+  "name": "md5.js",
+  "main": "md5.js",
+  "homepage": "http://www.myersdaily.org/joseph/javascript/md5-text.html",
+  "authors": [
+    "Joseph Myers  <e_mayilme@hotmail.com>"
+  ],
+  "description": "Javascript functions for calculating md5",
+  "ignore": [],
+  "license": "MIT"
+ }
